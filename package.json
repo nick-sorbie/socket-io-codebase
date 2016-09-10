@@ -1,0 +1,17 @@
+{
+  "name": "rest2",
+  "version": "1.0.0",
+  "description": "Simple Rest Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+  	"express":"*",
+  	"body-parser":"*",
+  	"mongoose":"*",
+    "socket.io" : "*"
+  	},
+  "author": "Nick Sorbie",
+  "license": "ISC"
+}
